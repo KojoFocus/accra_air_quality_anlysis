@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "PowerShell(where.exe conda 2>$null; where.exe mamba 2>$null; Get-ChildItem \"$env:USERPROFILE\\\\.conda\\\\environments.txt\" -ErrorAction SilentlyContinue | Get-Content)",
+      "PowerShell(& \"D:\\\\miniconda\\\\envs\\\\heart_env\\\\Scripts\\\\pip.exe\" install seaborn)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}

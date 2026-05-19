@@ -1,0 +1,31 @@
+station_id,station_name,month,month_num,PM2_5_ugm3,PM10_ugm3,NO2_ppb,CO_ppm,temperature_C,humidity_pct,wind_speed_ms,aqi_category
+ST01,Kaneshie Market,January,1,89.4,142.1,48.2,1.8,27.4,68,1.2,Unhealthy
+ST01,Kaneshie Market,February,2,94.2,151.8,52.1,2.1,28.1,65,1.0,Unhealthy
+ST01,Kaneshie Market,March,3,78.6,128.4,44.8,1.6,29.8,58,1.8,Unhealthy
+ST01,Kaneshie Market,April,4,82.1,134.2,46.3,1.7,30.2,55,1.6,Unhealthy
+ST01,Kaneshie Market,May,5,71.4,118.6,41.2,1.4,31.4,52,2.1,Unhealthy for Sensitive Groups
+ST01,Kaneshie Market,June,6,58.2,98.4,34.1,1.1,29.6,72,2.8,Moderate
+ST02,Legon University,January,1,28.4,48.2,18.4,0.4,26.8,72,2.4,Moderate
+ST02,Legon University,February,2,31.2,52.4,20.1,0.5,27.4,70,2.2,Moderate
+ST02,Legon University,March,3,24.8,44.6,16.8,0.3,29.1,62,2.8,Good
+ST02,Legon University,April,4,26.4,46.8,17.4,0.4,30.4,58,2.6,Good
+ST02,Legon University,May,5,22.1,40.2,14.8,0.3,31.8,54,3.1,Good
+ST02,Legon University,June,6,18.8,34.4,12.4,0.2,30.2,74,3.4,Good
+ST03,Tema Industrial,January,1,142.8,224.6,82.4,3.2,27.1,64,0.8,Hazardous
+ST03,Tema Industrial,February,2,158.4,248.2,91.2,3.8,27.8,61,0.6,Hazardous
+ST03,Tema Industrial,March,3,134.6,214.8,78.6,3.0,29.4,55,1.1,Very Unhealthy
+ST03,Tema Industrial,April,4,148.2,232.4,86.4,3.4,30.1,52,0.9,Hazardous
+ST03,Tema Industrial,May,5,128.4,204.6,74.2,2.8,31.6,48,1.4,Very Unhealthy
+ST03,Tema Industrial,June,6,112.6,181.4,64.8,2.4,30.4,68,1.8,Very Unhealthy
+ST04,Aburi Hills,January,1,18.2,32.4,10.2,0.2,22.4,82,4.2,Good
+ST04,Aburi Hills,February,2,16.8,30.1,9.4,0.2,23.1,80,4.4,Good
+ST04,Aburi Hills,March,3,14.4,26.8,8.2,0.1,24.8,74,4.8,Good
+ST04,Aburi Hills,April,4,15.8,28.4,8.8,0.1,25.6,70,4.6,Good
+ST04,Aburi Hills,May,5,12.4,22.6,7.1,0.1,26.8,66,5.1,Good
+ST04,Aburi Hills,June,6,10.8,19.8,6.4,0.1,25.4,84,5.4,Good
+ST05,Circle Interchange,January,1,118.6,188.4,68.4,2.6,27.8,66,0.6,Very Unhealthy
+ST05,Circle Interchange,February,2,124.8,198.2,72.1,2.8,28.4,63,0.5,Very Unhealthy
+ST05,Circle Interchange,March,3,108.4,174.6,62.8,2.3,30.1,57,0.9,Very Unhealthy
+ST05,Circle Interchange,April,4,114.2,182.4,66.4,2.5,30.8,54,0.7,Very Unhealthy
+ST05,Circle Interchange,May,5,98.6,158.8,56.2,2.1,32.1,50,1.2,Unhealthy
+ST05,Circle Interchange,June,6,82.4,134.2,48.4,1.8,30.8,70,1.6,Unhealthy
